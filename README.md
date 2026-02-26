@@ -1,4 +1,4 @@
-# Hi, I'm Nagul Meera Shaik 👋
+# Hi, I'm Nagul Shaik 👋
 
 ## Data Analyst & Business Analyst | Jersey City, NJ
 
