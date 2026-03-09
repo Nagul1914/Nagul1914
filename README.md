@@ -1,6 +1,6 @@
 # Hi, I'm Nagul Shaik 👋
 
-## Data Analyst & Business Analyst | Jersey City, NJ
+## Corporate Banking Analyst, & Financial Analyst | Jersey City, NJ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagulshaik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-63D2FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://nagul1914.github.io/nagul-portfolio)
