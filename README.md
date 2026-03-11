@@ -11,7 +11,7 @@
 ### 🎯 What I Do
 - 📊 Transform complex datasets into business decisions that matter
 - 🔍 Advanced SQL, Python (Pandas), Power BI & Tableau for enterprise analytics
-- 🏥 2 years in Investment Banking Analyst, Corporate Banking Analyst, Financial Analyst, Capital Markets Analyst
+- 🏥 3+ years in Investment Banking Analyst, Corporate Banking Analyst, Financial Analyst, Capital Markets Analyst
 - 🤖 Building AI-powered forecasting & fraud detection systems
 
 ---
