@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi%2C+I'm+Nagul+Meera+Shaik+%F0%9F%91%8B;Financial+Analyst+%40+JPMorgan+Chase+%26+Co.;FP%26A+%7C+Risk+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake+%7C+AWS;Open+to+Finance+%26+Business+Analyst+Roles+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi%2C+I'm+Nagul+S+%F0%9F%91%8B;Financial+Analyst+%40+JPMorgan+Chase+%26+Co.;FP%26A+%7C+Risk+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake+%7C+AWS;Open+to+Finance+%26+Business+Analyst+Roles+%F0%9F%93%8A" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagul%20Shaik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagulshaik-financeanalyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagul%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagulshaik-financeanalyst)
 [![Email](https://img.shields.io/badge/Email-nagulmeerashaik26%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nagulmeerashaik26@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20201--920--8281-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+12019208281)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nagul1914.github.io-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://nagul1914.github.io/nagul-portfolio)
@@ -27,7 +27,7 @@
 
 ```python
 nagul = {
-    "name"        : "Nagul Meera Shaik",
+    "name"        : "Nagul S",
     "role"        : "Financial Analyst @ JPMorgan Chase & Co.",
     "location"    : "USA 🗽 — Open to Relocate Anywhere in the USA",
     "education"   : "MS Data Science — Pace University, New York (2024)",
