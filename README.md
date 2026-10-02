@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi%2C+I'm+Nagul+S+%F0%9F%91%8B;Financial+Analyst+%40+JPMorgan+Chase+%26+Co.;FP%26A+%7C+Risk+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake+%7C+AWS;Open+to+Finance+%26+Business+Analyst+Roles+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hi%2C+I'm+Nagul+S+%F0%9F%91%8B;Financial+Analyst+%40+Tokyo+Electron+%28TEL%29;FP%26A+%7C+Financial+Reporting+%7C+Data+Validation;Oracle+EPM+%7C+Smart+View+%7C+Excel+%7C+SQL+%7C+Power+BI;Open+to+Finance+%26+Business+Analyst+Roles+%F0%9F%93%8A" alt="Nagul S — Financial Analyst at Tokyo Electron (TEL)" />
 
 </div>
 
@@ -28,17 +28,17 @@
 ```python
 nagul = {
     "name"        : "Nagul S",
-    "role"        : "Financial Analyst @ JPMorgan Chase & Co.",
+    "role"        : "Financial Analyst @ Tokyo Electron (TEL)",
     "location"    : "USA 🗽 — Open to Relocate Anywhere in the USA",
     "education"   : "MS Data Science — Pace University, New York (2024)",
-    "focus"       : ["FP&A", "Financial Modeling", "Risk Analytics", "Data Engineering"],
+    "focus"       : ["FP&A", "Financial Reporting", "Forecasting", "Data Validation"],
     "certifications": ["Microsoft Power BI", "Tableau Desktop Certified Professional"],
     "work_modes"  : ["Onsite", "Hybrid", "Remote"],
     "passion"     : "Transforming complex financial data into strategic business insights"
 }
 ```
 
-- 🏦 Currently building real-time financial analytics platforms at **JPMorgan Chase & Co.**
+- 🏢 Currently supporting FP&A reporting, forecast preparation, and financial data validation at **Tokyo Electron (TEL)**
 - 📊 4+ years across Finance, Business Intelligence, and Data Analytics
 - 🤖 Building AI-powered forecasting models with **ARIMA, Prophet & XGBoost**
 - ⚡ Delivered **14% forecast accuracy improvement** and **30% reduction** in reporting cycle time
@@ -106,6 +106,10 @@ nagul = {
 ![Alteryx](https://img.shields.io/badge/Alteryx-1F6CF8?style=for-the-badge&logo=alteryx&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
+**Finance Systems & Reporting**
+
+Oracle Hyperion Planning / EPM Cloud · Smart View · Excel reconciliation · SQL · Power BI
+
 </div>
 
 ---
@@ -114,11 +118,27 @@ nagul = {
 
 <table>
 <tr>
+<td width="60px" align="center">🏢</td>
+<td>
+<strong>Financial Analyst — Tokyo Electron (TEL)</strong><br/>
+<em>📍 New York, USA &nbsp;|&nbsp; 📅 Jul 2026 – Present</em><br/>
+Support monthly FP&A reporting and forecast-load preparation in Oracle Hyperion Planning / EPM Cloud.
+<ul>
+<li>Review actual results against budget and forecast as part of monthly variance analysis.</li>
+<li>Validate budget, actual, and forecast data before Oracle loads using Excel tie-outs, SUMIFS/COUNTIFS, orphan-record checks, and source-to-target reconciliation.</li>
+<li>Coordinate headcount, payroll, and operating expense inputs with FP&A and accounting teams for Oracle headcount loads.</li>
+<li>Use Smart View, Excel, SQL, and Power BI to validate reporting cubes and support reporting during entity migration.</li>
+</ul>
+<strong>Tools:</strong> Oracle Hyperion Planning / EPM Cloud · Smart View · Excel · SQL · Power BI
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
 <td width="60px" align="center">🏦</td>
 <td>
 <strong>Financial Analyst — JPMorgan Chase & Co.</strong><br/>
-<em>📍 New York, USA &nbsp;|&nbsp; 📅 Jan 2026 – Present</em><br/>
-Building enterprise-grade financial analytics pipelines, real-time risk monitoring systems, and executive-level dashboards that power strategic decision-making across global operations.
+<em>📍 New Jersey, USA &nbsp;|&nbsp; 📅 Jan 2026 – Jun 2026</em><br/>
+Built forecasting models, consolidation workflows, and executive reporting using Anaplan, Oracle Essbase, Power BI, Alteryx, and SAP. Supported variance analysis, cash flow modeling, and liquidity stress testing.
 </td>
 </tr>
 <tr><td colspan="2"><hr/></td></tr>
